@@ -39,7 +39,7 @@ const AdminLogin = ({ navigation }: AdminLoginProps) => {
     const adminIconPressed = () => {
         navigation.navigate('AdminLogin')
     }
-    return (
+        return (
         <ScrollView style={styles.container}>
             <View style={styles.topbarContainer}>
                 <TopBar

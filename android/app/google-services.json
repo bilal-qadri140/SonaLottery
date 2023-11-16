@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307298536597",
+    "project_id": "lottery-816a8",
+    "storage_bucket": "lottery-816a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307298536597:android:9e87a93b9aa12af33c5f9c",
+        "android_client_info": {
+          "package_name": "com.sonalottery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspEXdkbZy1-mVBZbQnKNzqtXmwr-WOqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
